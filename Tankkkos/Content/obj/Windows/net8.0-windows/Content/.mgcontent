@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain.jpg</File>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain128.jpg</File>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain256.jpg</File>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain512.jpg</File>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/skybox.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

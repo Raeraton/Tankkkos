@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain.jpg","C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/bin/Windows/Content/grassTerrain.xnb","TextureProcessor","Texture2DContent",801990,4194389,0.2783171
+"C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain128.jpg","C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/bin/Windows/Content/grassTerrain128.xnb","TextureProcessor","Texture2DContent",31452,65621,0.1090311
+"C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain256.jpg","C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/bin/Windows/Content/grassTerrain256.xnb","TextureProcessor","Texture2DContent",59221,262229,0.0141299
+"C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain512.jpg","C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/bin/Windows/Content/grassTerrain512.xnb","TextureProcessor","Texture2DContent",198196,1048661,0.0312705
+"C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/skybox.jpg","C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/bin/Windows/Content/skybox.xnb","TextureProcessor","Texture2DContent",216601,8388693,0.2647807
