@@ -4,13 +4,19 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/../Player.fx</File>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/../Terrain.fx</File>
     <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain.jpg</File>
     <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain128.jpg</File>
     <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain256.jpg</File>
     <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/grassTerrain512.jpg</File>
     <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/skybox.jpg</File>
+    <File>C:/Users/rovac/Documents/gameDev/tankos/Tankkkos/Tankkkos/Content/tank.fbx</File>
   </SourceFiles>
   <DestFiles>
+    <File>Player.fx</File>
+    <File>Terrain.fx</File>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

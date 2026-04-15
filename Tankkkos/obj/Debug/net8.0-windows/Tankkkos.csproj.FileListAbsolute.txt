@@ -32,3 +32,7 @@ C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\bin\Debug\net8.0-windo
 C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\bin\Debug\net8.0-windows\Content\grassTerrain128.xnb
 C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\bin\Debug\net8.0-windows\Content\grassTerrain256.xnb
 C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\bin\Debug\net8.0-windows\Content\grassTerrain512.xnb
+C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\obj\Debug\net8.0-windows\Tankkkos.sourcelink.json
+C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\bin\Debug\net8.0-windows\Content\Terrain.xnb
+C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\bin\Debug\net8.0-windows\Content\tank.xnb
+C:\Users\rovac\Documents\gameDev\tankos\Tankkkos\Tankkkos\bin\Debug\net8.0-windows\Content\Player.xnb

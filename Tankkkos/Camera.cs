@@ -9,8 +9,8 @@ namespace Tankkkos
 {
     class Camera
     {
-        public Vector3 Position = new(5, 2, 3);
-        public Vector3 Direction = new(-5, -2, -3);
+        public Vector3 Position = new(0, 2, -6);
+        public Vector3 Direction = new(0, -2, 6);
         public Vector3 Up = Vector3.Up;
         public float AspectRatio = 1;
         public Matrix View => Matrix.CreateLookAt(Position, Position + Direction, Up);

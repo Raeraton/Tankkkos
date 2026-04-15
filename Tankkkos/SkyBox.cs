@@ -24,7 +24,7 @@ namespace Tankkkos
 
         public void Draw(Camera cam)
         {
-            model.Draw(Matrix.CreateScale(1000) * Matrix.CreateTranslation(cam.Position),
+            model.Draw(Matrix.CreateScale(1000) * Matrix.CreateTranslation(cam.Position.X, 0, cam.Position.Z),
             cam.View, cam.Projection);
         }
     }
