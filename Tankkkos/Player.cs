@@ -130,10 +130,10 @@ namespace Tankkkos
                 Position -= new Vector3(-camDir.Z, 0, camDir.X);
             if (ks.IsKeyDown(Keys.D))
                 Position += new Vector3(-camDir.Z, 0, camDir.X);
-            if( ks.IsKeyDown(Keys.LeftShift))
+            if( !ks.IsKeyDown(Keys.LeftShift))
                 modelDirection = Vector3.Normalize(Camera.Direction );
 
-            Position.Y = terrain.GetHeightAtPoint(Position.X, Position.Z) + 1;
+            Position.Y = terrain.GetHeightAtPointWorld(Position.X, Position.Z) + 1;
         }
 
         private void updateCamera() 

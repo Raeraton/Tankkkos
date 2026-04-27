@@ -42,9 +42,8 @@ namespace Tankkkos
         {
             _spriteBatch = new Microsoft.Xna.Framework.Graphics.SpriteBatch(GraphicsDevice);
 
-            terrain = new Terrain(GraphicsDevice,
-                Content.Load<Texture2D>("grassTerrain256"),
-                1024, 1024, Content.Load<Effect>("Terrain"), sun );
+            terrain = new Terrain(GraphicsDevice, Content.Load<Effect>("Terrain"),
+                Content.Load<Texture2D>("grassTerrain"), sun, 128, new Vector3(16f, 1f, 16f), 3 );
 
             skyBox = new SkyBox(GraphicsDevice, Content.Load<Texture2D>("skybox"));
 
@@ -60,7 +59,8 @@ namespace Tankkkos
                 Exit();
 
             player.Update();
-            Console.WriteLine(Camera.Main.Position);
+
+            //terrain.Update(player.Position);
 
             base.Update(gameTime);
         }

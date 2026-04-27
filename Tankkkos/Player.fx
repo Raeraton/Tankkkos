@@ -1,23 +1,11 @@
-﻿
-float4x4 World;
+﻿float4x4 World;
 float4x4 ViewProj;
 
 float3 sunPos;
 float sunShine;
 
 float3 CamPos;
-
-
-texture2D tex;
-sampler texSampler = sampler_state
-{
-    Texture = <tex>;
-    MinFilter = Linear;
-    MagFilter = Linear;
-    MipFilter = Linear;
-    AddressU = Wrap;
-    AddressV = Wrap;
-};
+float3 Color;
 
 
 struct VSI
@@ -54,12 +42,10 @@ VSO VS(VSI input)
 
 float4 PS(VSO input) : COLOR
 {
-    float3 color = tex2D(texSampler, input.tex).rgb;
+    float3 color = Color;
     float3 normal = normalize(input.normal.xyz);
     
     float3 sunDir = normalize((CamPos + sunPos) - input.worldPos);
-    sunDir.x *= -1;
-    sunDir.z *= -1;
     float3 camDir = normalize(input.worldPos - CamPos);
     
     float lightPow = saturate(dot(normal, sunDir));
@@ -69,7 +55,7 @@ float4 PS(VSO input) : COLOR
     float shine = pow(saturate(dot(normal, halfWay)), 40);
     
     
-    return float4(color * (lightPow * (0.35) + 0.65), 1) + float4(1, 1, 1, 1) * shine * sunShine;
+    return float4 (color * (lightPow*(0.35)+0.65), 1) + float4(1, 1, 1, 1) * shine * sunShine;
     
 }
 

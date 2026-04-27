@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|c:\\users\\rovac\\documents\\gamedev\\tankos\\tankkkos\\tankkkos\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|solutionrelative:tankkkos\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|c:\\users\\rovac\\documents\\gamedev\\tankos\\tankkkos\\tankkkos\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|solutionrelative:tankkkos\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|c:\\users\\rovac\\documents\\gamedev\\tankos\\tankkkos\\tankkkos\\terrain.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|solutionrelative:tankkkos\\terrain.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|c:\\users\\rovac\\documents\\gamedev\\tankos\\tankkkos\\tankkkos\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|solutionrelative:tankkkos\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|c:\\users\\rovac\\documents\\gamedev\\tankos\\tankkkos\\tankkkos\\player.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A012D226-E187-BA21-AA27-3F61D642A46A}|Tankkkos\\Tankkkos.csproj|solutionrelative:tankkkos\\player.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Game1.cs",
+              "RelativeDocumentMoniker": "Tankkkos\\Game1.cs",
+              "ToolTip": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Game1.cs",
+              "RelativeToolTip": "Tankkkos\\Game1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:36:39.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terrain.cs",
+              "DocumentMoniker": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Terrain.cs",
+              "RelativeDocumentMoniker": "Tankkkos\\Terrain.cs",
+              "ToolTip": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Terrain.cs",
+              "RelativeToolTip": "Tankkkos\\Terrain.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwJgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:52:38.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terrain.fx",
+              "DocumentMoniker": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Terrain.fx",
+              "RelativeDocumentMoniker": "Tankkkos\\Terrain.fx",
+              "ToolTip": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Terrain.fx",
+              "RelativeToolTip": "Tankkkos\\Terrain.fx",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T13:10:58.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.fx",
+              "DocumentMoniker": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Player.fx",
+              "RelativeDocumentMoniker": "Tankkkos\\Player.fx",
+              "ToolTip": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Player.fx",
+              "RelativeToolTip": "Tankkkos\\Player.fx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-02T13:04:07.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Player.cs",
+              "RelativeDocumentMoniker": "Tankkkos\\Player.cs",
+              "ToolTip": "C:\\Users\\rovac\\Documents\\gameDev\\tankos\\Tankkkos\\Tankkkos\\Player.cs",
+              "RelativeToolTip": "Tankkkos\\Player.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:54:37.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
